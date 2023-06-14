@@ -498,7 +498,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Mathieu Lalumi\xE8re"
+  m_Text: Miguel
 --- !u!222 &410415562
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -690,7 +690,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: "Il y a beaucoup de monde aujourd'hui \xE0 la Cellulose!\n\nLes jumelles
     Fraser discutent ensemble, tandis que Rapha\xEBl et St\xE9phanie Couillard bricolent
-    des d\xE9corations.\n\nLe petit Mathieu Lalumi\xE8re est l\xE0 aussi.\n\nQui
+    des d\xE9corations.\n\nMiguel est l\xE0 aussi, mais il semble avoir les blues.\n\nQui
     souhaitez-vous interroger?"
 --- !u!222 &744453784
 CanvasRenderer:
@@ -880,7 +880,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f61db96fb08cbfa459767164d5e84980, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fc5db48180a269641889126a9d42c6b2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
