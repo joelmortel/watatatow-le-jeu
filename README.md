@@ -1,2 +1,2 @@
-# watatatow-text-game
-Text-Game inspiré de la série Watatatow
+# watatatow-le-jeu
+Jeu point n' click inspiré de la série Watatatow
