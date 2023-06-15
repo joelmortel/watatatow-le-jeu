@@ -498,7 +498,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Miguel
+  m_Text: Sophie Bonin-Jutras
 --- !u!222 &410415562
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -690,8 +690,8 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: "Il y a beaucoup de monde aujourd'hui \xE0 la Cellulose!\n\nLes jumelles
     Fraser discutent ensemble, tandis que Rapha\xEBl et St\xE9phanie Couillard bricolent
-    des d\xE9corations.\n\nMiguel est l\xE0 aussi, mais il semble avoir les blues.\n\nQui
-    souhaitez-vous interroger?"
+    des d\xE9corations.\n\nSophie Bonin-Jutras est l\xE0 aussi, mais elle semble
+    avoir les blues.\n\nQui souhaitez-vous interroger?"
 --- !u!222 &744453784
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -880,7 +880,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: fc5db48180a269641889126a9d42c6b2, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fde6d85776d971d4a9dd4c57e10f1653, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
