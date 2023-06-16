@@ -54,6 +54,7 @@ MonoBehaviour:
       objectReferences:
       - {fileID: 62049588498828602, guid: 1d6f89093e7ffe7408b255e662cdf94e, type: 3}
       - {fileID: 6237359062298445351, guid: fb5058212406eac4a922273525f65c1c, type: 3}
+      - {fileID: 8051391180034407933, guid: 9a45064713e75fe4890cd5d2114b6b02, type: 3}
     - useVariable: 1
       name: MauvaisChoix
       tooltip: 
