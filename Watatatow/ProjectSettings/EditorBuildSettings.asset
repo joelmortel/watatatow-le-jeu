@@ -6,6 +6,48 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/intro.unity
+    guid: 9d60f911406f8204e94851804546cbad
+  - enabled: 1
+    path: Assets/Scenes/episode01.unity
+    guid: 709eb5318b6f2e8459dba6ca7c4e66df
+  - enabled: 1
+    path: Assets/Scenes/ep01choix.unity
+    guid: 88e43342e6cd8e34a94500372a296c71
+  - enabled: 1
+    path: Assets/Scenes/ep01chezAllaire.unity
+    guid: 234c27268f465d149bc504900d145c44
+  - enabled: 1
+    path: Assets/Scenes/ep01polyvalente.unity
+    guid: 3b22108ab5db03c478bceb3dbf25d892
+  - enabled: 1
+    path: Assets/Scenes/ep01cellulose.unity
+    guid: ec11ec07ade3a66419c7f0f062a8da24
+  - enabled: 1
+    path: Assets/Scenes/ep01guyLebeau.unity
+    guid: 458a9edfd5eac9944b16f623da8c9e04
+  - enabled: 1
+    path: Assets/Scenes/ep01jocelynTurmel.unity
+    guid: 689ceb39cfc286d4eb581824a6db60cd
+  - enabled: 1
+    path: Assets/Scenes/ep01miguelTrepanier.unity
+    guid: f755a73bc90131a419ea926fa9296f53
+  - enabled: 1
+    path: Assets/Scenes/ep01emilieLaurin.unity
+    guid: 0cd34ea7d260a2349bfa51135528612e
+  - enabled: 1
+    path: Assets/Scenes/ep01vincentGauthier.unity
+    guid: f5eef80fa9eaea246ac33256abe6b3fa
+  - enabled: 1
+    path: Assets/Scenes/ep01louisFraser.unity
+    guid: 66913fca406d3814f837b3351573952d
+  - enabled: 1
+    path: Assets/Scenes/ep01jumellesFraser.unity
+    guid: 7e4855cd4a41d0647afb13cff2061a0d
+  - enabled: 1
+    path: Assets/Scenes/ep01maggiemalo.unity
+    guid: 83f78d91ce7bf7249bd952966174b5b0
+  - enabled: 1
+    path: Assets/Scenes/ep01rafetstef.unity
+    guid: 23922d4ba65d8b749873f957e3312152
   m_configObjects: {}
