@@ -249,7 +249,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 349d9afd63ba8ca4abc1526bbd39ceb1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 146364066effe0342b0b76ffe51f7170, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -418,7 +418,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "St\xE9phanie et Rapha\xEBl"
+  m_Text: Vincent Gauthier
 --- !u!222 &376565884
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -498,7 +498,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Maggie Malo
+  m_Text: "\xC9milie Laurin"
 --- !u!222 &410415562
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -878,7 +878,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c1c8661ba97d8d2468e8ed08676cce9e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1139e6ff9d82c1d4db79ca9ce3e67406, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
