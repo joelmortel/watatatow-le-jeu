@@ -538,7 +538,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Changer de lieu
+  m_Text: "Menu Pr\xE9c\xE9dent"
 --- !u!222 &259199436
 CanvasRenderer:
   m_ObjectHideFlags: 0
