@@ -5722,8 +5722,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\xABEinstein est disparu??? \n\nOn \xE9tait justement en train de lui
-    organiser un party surprise pour son anni"
+  m_Text: "Jocelyn Turmel est venu au resto afin d'aller rencontrer Maggie Malo.\n\nIl
+    souhaite lui offrir un travail \xE9tudiant."
 --- !u!222 &1405975472
 CanvasRenderer:
   m_ObjectHideFlags: 0

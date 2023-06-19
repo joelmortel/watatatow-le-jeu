@@ -5108,8 +5108,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\xABEinstein est disparu??? \n\nOn \xE9tait justement en train de lui
-    organiser un party surprise pour son anni"
+  m_Text: "Miguel a visiblement le moral \xE0 plat.\n\nPourquoi semble-t-il aussi
+    pr\xE9occup\xE9?"
 --- !u!222 &1405975472
 CanvasRenderer:
   m_ObjectHideFlags: 0

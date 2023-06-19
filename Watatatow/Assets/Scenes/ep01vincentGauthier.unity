@@ -6058,8 +6058,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\xABEinstein est disparu??? \n\nOn \xE9tait justement en train de lui
-    organiser un party surprise pour son anni"
+  m_Text: "Vincent Gauthier est venu faire un tour \xE0 la polyvalente afin de s'occuper
+    du club de photographie."
 --- !u!222 &1405975472
 CanvasRenderer:
   m_ObjectHideFlags: 0

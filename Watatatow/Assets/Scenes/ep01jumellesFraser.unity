@@ -5599,8 +5599,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\xABEinstein est disparu??? \n\nOn \xE9tait justement en train de lui
-    organiser un party surprise pour son anni"
+  m_Text: "Les jumelles Fraser semblent ext\xE9nu\xE9es. \n\nDe toute \xE9vidence,
+    elles n'ont pas pass\xE9 une tr\xE8s belle journ\xE9e!"
 --- !u!222 &1405975472
 CanvasRenderer:
   m_ObjectHideFlags: 0

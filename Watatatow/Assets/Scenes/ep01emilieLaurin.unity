@@ -5349,8 +5349,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\xABEinstein est disparu??? \n\nOn \xE9tait justement en train de lui
-    organiser un party surprise pour son anni"
+  m_Text: "\xC9milie Laurin n'est vraiment pas de bonne humeur!\n\nA-t-elle encore
+    des probl\xE8mes avec \xC9ric Chicoine?"
 --- !u!222 &1405975472
 CanvasRenderer:
   m_ObjectHideFlags: 0

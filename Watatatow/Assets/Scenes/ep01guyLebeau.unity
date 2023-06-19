@@ -5172,8 +5172,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\xABEinstein est disparu??? \n\nOn \xE9tait justement en train de lui
-    organiser un party surprise pour son anni"
+  m_Text: "Guy Lebeau semble tr\xE8s pr\xE9occup\xE9. \n\nIl n'agit vraiment pas
+    comme d'habitude..."
 --- !u!222 &1405975472
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -5199,8 +5199,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\xABEinstein est disparu??? \n\nOn \xE9tait justement en train de lui
-    organiser un party surprise pour son anni"
+  m_Text: "Maggie Malo \xE9tait venu au Resto Chez Allaire en raison d'une entrevue
+    pour un travail \xE9tudiant, mais elle semble d\xE9courag\xE9..."
 --- !u!222 &1405975472
 CanvasRenderer:
   m_ObjectHideFlags: 0
