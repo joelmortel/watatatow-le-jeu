@@ -2239,7 +2239,7 @@ MonoBehaviour:
       position:
         serializedVersion: 2
         x: 50
-        y: 116
+        y: 100
         width: 100
         height: 16
       isBreakpoint: 0
@@ -2340,7 +2340,7 @@ MonoBehaviour:
       position:
         serializedVersion: 2
         x: 563
-        y: 116
+        y: 100
         width: 169
         height: 16
       isBreakpoint: 0
@@ -2569,7 +2569,7 @@ MonoBehaviour:
       position:
         serializedVersion: 2
         x: 346
-        y: 124
+        y: 108
         width: 100
         height: 48
       isBreakpoint: 0
@@ -2653,7 +2653,7 @@ MonoBehaviour:
       position:
         serializedVersion: 2
         x: 560
-        y: 216
+        y: 200
         width: 170
         height: 16
       isBreakpoint: 0
@@ -2825,13 +2825,13 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: Je vais rencontrer Jocelyn au resto Chez Allaire.
+          value: Jocelyn va venir me rejoindre ici.
         - useVariable: 0
           name: 
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: "J'imagine qu'il m'attend d\xE9j\xE0 l\xE0-bas!\xBB"
+          value: "J'imagine qu'il va arriver d'une seconde \xE0 l'autre.\xBB"
         - useVariable: 1
           name: sautParagraphe
           tooltip: 
@@ -2889,7 +2889,7 @@ MonoBehaviour:
       position:
         serializedVersion: 2
         x: 830
-        y: 138
+        y: 122
         width: 194
         height: 48
       isBreakpoint: 0
@@ -2991,7 +2991,7 @@ MonoBehaviour:
       position:
         serializedVersion: 2
         x: 1105
-        y: 116
+        y: 100
         width: 100
         height: 16
       isBreakpoint: 0
@@ -3043,7 +3043,7 @@ MonoBehaviour:
       position:
         serializedVersion: 2
         x: 1116
-        y: 228
+        y: 212
         width: 156
         height: 64
       isBreakpoint: 0
@@ -3054,7 +3054,7 @@ MonoBehaviour:
           name: devoir remis
           isSystemEvent: 0
           isGlobal: 0
-        toState: "v\xE9rifier si le devoir a d\xE9j\xE0 \xE9t\xE9 donn\xE9"
+        toState: Remettre le devoir
         linkStyle: 0
         linkConstraint: 0
         linkTarget: 0
@@ -3170,7 +3170,6 @@ MonoBehaviour:
           objectReferences:
           - {fileID: 62049588498828602, guid: 1d6f89093e7ffe7408b255e662cdf94e, type: 3}
           - {fileID: 6237359062298445351, guid: fb5058212406eac4a922273525f65c1c, type: 3}
-          - {fileID: 8051391180034407933, guid: 9a45064713e75fe4890cd5d2114b6b02, type: 3}
         fsmEnumParams: []
         fsmFloatParams: []
         fsmIntParams:
@@ -3230,97 +3229,13 @@ MonoBehaviour:
         - everyFrame
         paramDataPos: 0000000000000000000000000000000000000000000000000000000001000000020000000000000001000000010000000100000003000000040000000100000002000000
         paramByteDataSize: 0000000000000000000000000100000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000001000000
-    - name: "v\xE9rifier si le devoir a d\xE9j\xE0 \xE9t\xE9 donn\xE9"
-      description: 
-      colorIndex: 0
-      position:
-        serializedVersion: 2
-        x: 1408
-        y: 142
-        width: 232
-        height: 48
-      isBreakpoint: 0
-      isSequence: 0
-      hideUnused: 0
-      transitions:
-      - fsmEvent:
-          name: ok go
-          isSystemEvent: 0
-          isGlobal: 0
-        toState: Remettre le devoir
-        linkStyle: 0
-        linkConstraint: 0
-        linkTarget: 0
-        colorIndex: 0
-      - fsmEvent:
-          name: devoir remis
-          isSystemEvent: 0
-          isGlobal: 0
-        toState: "le devoir a d\xE9j\xE0 \xE9t\xE9 remis"
-        linkStyle: 0
-        linkConstraint: 0
-        linkTarget: 0
-        colorIndex: 0
-      actionData:
-        actionNames:
-        - HutongGames.PlayMaker.Actions.BoolTest
-        customNames:
-        - 
-        actionEnabled: 01
-        actionIsOpen: 01
-        actionStartIndex: 00000000
-        actionHashCodes: a4c8bf00
-        unityObjectParams: []
-        fsmGameObjectParams: []
-        fsmOwnerDefaultParams: []
-        animationCurveParams: []
-        functionCallParams: []
-        fsmTemplateControlParams: []
-        fsmEventTargetParams: []
-        fsmPropertyParams: []
-        layoutOptionParams: []
-        fsmStringParams: []
-        fsmObjectParams: []
-        fsmVarParams: []
-        fsmArrayParams: []
-        fsmEnumParams: []
-        fsmFloatParams: []
-        fsmIntParams: []
-        fsmBoolParams:
-        - useVariable: 1
-          name: DevoirDonne
-          tooltip: 
-          showInInspector: 0
-          networkSync: 0
-          value: 0
-        fsmVector2Params: []
-        fsmVector3Params: []
-        fsmColorParams: []
-        fsmRectParams: []
-        fsmQuaternionParams: []
-        stringParams:
-        - devoir remis
-        - ok go
-        byteData: 00
-        arrayParamSizes: 
-        arrayParamTypes: []
-        customTypeSizes: 
-        customTypeNames: []
-        paramDataType: 11000000170000001700000001000000
-        paramName:
-        - boolVariable
-        - isTrue
-        - isFalse
-        - everyFrame
-        paramDataPos: 00000000000000000100000000000000
-        paramByteDataSize: 00000000000000000000000001000000
     - name: Remettre le devoir
       description: 
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 1827
-        y: 61
+        x: 1465
+        y: 127
         width: 138
         height: 16
       isBreakpoint: 0
@@ -3593,7 +3508,6 @@ MonoBehaviour:
           objectReferences:
           - {fileID: 62049588498828602, guid: 1d6f89093e7ffe7408b255e662cdf94e, type: 3}
           - {fileID: 6237359062298445351, guid: fb5058212406eac4a922273525f65c1c, type: 3}
-          - {fileID: 8051391180034407933, guid: 9a45064713e75fe4890cd5d2114b6b02, type: 3}
         fsmEnumParams: []
         fsmFloatParams:
         - useVariable: 0
@@ -3665,201 +3579,13 @@ MonoBehaviour:
         - everyFrame
         paramDataPos: 0000000001000000000000000000000000000000020000000000000000000000000000000100000000000000000000000100000002000000030000000300000004000000020000000000000003000000
         paramByteDataSize: 0000000000000000010000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000010000000000000001000000
-    - name: "le devoir a d\xE9j\xE0 \xE9t\xE9 remis"
-      description: 
-      colorIndex: 0
-      position:
-        serializedVersion: 2
-        x: 1788
-        y: 208
-        width: 176
-        height: 16
-      isBreakpoint: 0
-      isSequence: 0
-      hideUnused: 0
-      transitions: []
-      actionData:
-        actionNames:
-        - HutongGames.PlayMaker.Actions.SetProperty
-        customNames:
-        - 
-        actionEnabled: 01
-        actionIsOpen: 01
-        actionStartIndex: 00000000
-        actionHashCodes: 5ac85204
-        unityObjectParams: []
-        fsmGameObjectParams: []
-        fsmOwnerDefaultParams: []
-        animationCurveParams: []
-        functionCallParams: []
-        fsmTemplateControlParams: []
-        fsmEventTargetParams: []
-        fsmPropertyParams:
-        - TargetObject:
-            useVariable: 0
-            name: 
-            tooltip: 
-            showInInspector: 0
-            networkSync: 0
-            typeName: UnityEngine.Object
-            value: {fileID: 1405975471}
-          TargetTypeName: UnityEngine.UI.Text
-          PropertyName: text
-          BoolParameter:
-            useVariable: 0
-            name: 
-            tooltip: 
-            showInInspector: 0
-            networkSync: 0
-            value: 0
-          FloatParameter:
-            useVariable: 0
-            name: 
-            tooltip: 
-            showInInspector: 0
-            networkSync: 0
-            value: 0
-          IntParameter:
-            useVariable: 0
-            name: 
-            tooltip: 
-            showInInspector: 0
-            networkSync: 0
-            value: 0
-          GameObjectParameter:
-            useVariable: 0
-            name: 
-            tooltip: 
-            showInInspector: 0
-            networkSync: 0
-            value: {fileID: 0}
-          StringParameter:
-            useVariable: 0
-            name: 
-            tooltip: 
-            showInInspector: 0
-            networkSync: 0
-            value: "\xABMerci encore pour le devoir!\xBB"
-          Vector2Parameter:
-            useVariable: 0
-            name: 
-            tooltip: 
-            showInInspector: 0
-            networkSync: 0
-            value: {x: 0, y: 0}
-          Vector3Parameter:
-            useVariable: 0
-            name: 
-            tooltip: 
-            showInInspector: 0
-            networkSync: 0
-            value: {x: 0, y: 0, z: 0}
-          RectParamater:
-            useVariable: 0
-            name: 
-            tooltip: 
-            showInInspector: 0
-            networkSync: 0
-            value:
-              serializedVersion: 2
-              x: 0
-              y: 0
-              width: 0
-              height: 0
-          QuaternionParameter:
-            useVariable: 0
-            name: 
-            tooltip: 
-            showInInspector: 0
-            networkSync: 0
-            value: {x: 0, y: 0, z: 0, w: 0}
-          ObjectParameter:
-            useVariable: 0
-            name: 
-            tooltip: 
-            showInInspector: 0
-            networkSync: 0
-            typeName: System.String
-            value: {fileID: 0}
-          MaterialParameter:
-            useVariable: 0
-            name: 
-            tooltip: 
-            showInInspector: 0
-            networkSync: 0
-            typeName: 
-            value: {fileID: 0}
-          TextureParameter:
-            useVariable: 0
-            name: 
-            tooltip: 
-            showInInspector: 0
-            networkSync: 0
-            typeName: 
-            value: {fileID: 0}
-          ColorParameter:
-            useVariable: 0
-            name: 
-            tooltip: 
-            showInInspector: 0
-            networkSync: 0
-            value: {r: 0, g: 0, b: 0, a: 1}
-          EnumParameter:
-            useVariable: 0
-            name: 
-            tooltip: 
-            showInInspector: 0
-            networkSync: 0
-            enumName: HutongGames.PlayMaker.None
-            intValue: 0
-          ArrayParameter:
-            useVariable: 0
-            name: 
-            tooltip: 
-            showInInspector: 0
-            networkSync: 0
-            type: -1
-            objectTypeName: UnityEngine.Object
-            floatValues: []
-            intValues: 
-            boolValues: 
-            stringValues: []
-            vector4Values: []
-            objectReferences: []
-          setProperty: 1
-        layoutOptionParams: []
-        fsmStringParams: []
-        fsmObjectParams: []
-        fsmVarParams: []
-        fsmArrayParams: []
-        fsmEnumParams: []
-        fsmFloatParams: []
-        fsmIntParams: []
-        fsmBoolParams: []
-        fsmVector2Params: []
-        fsmVector3Params: []
-        fsmColorParams: []
-        fsmRectParams: []
-        fsmQuaternionParams: []
-        stringParams: []
-        byteData: 00
-        arrayParamSizes: 
-        arrayParamTypes: []
-        customTypeSizes: 
-        customTypeNames: []
-        paramDataType: 2400000001000000
-        paramName:
-        - targetProperty
-        - everyFrame
-        paramDataPos: 0000000000000000
-        paramByteDataSize: 0000000001000000
     - name: Infos sur Einstein
       description: 
       colorIndex: 0
       position:
         serializedVersion: 2
         x: 1485
-        y: 267
+        y: 251
         width: 130
         height: 16
       isBreakpoint: 0
@@ -4094,7 +3820,7 @@ MonoBehaviour:
       position:
         serializedVersion: 2
         x: 1506
-        y: 359
+        y: 343
         width: 100
         height: 16
       isBreakpoint: 0
@@ -4292,9 +4018,9 @@ MonoBehaviour:
           intValues: 
           boolValues: 
           stringValues:
-          - Pas rapport!
-          - Fais du vent!
-          - Franchement!
+          - "\xABPas rapport!\xBB"
+          - "\xABFais du vent!\xBB"
+          - "\xABFranchement!\xBB"
           vector4Values: []
           objectReferences: []
         fsmEnumParams: []
@@ -4394,13 +4120,7 @@ MonoBehaviour:
         showInInspector: 0
         networkSync: 0
         value: 0
-      boolVariables:
-      - useVariable: 1
-        name: DevoirDonne
-        tooltip: 
-        showInInspector: 0
-        networkSync: 0
-        value: 0
+      boolVariables: []
       stringVariables:
       - useVariable: 1
         name: newLine
@@ -4433,7 +4153,7 @@ MonoBehaviour:
       enumVariables: []
       categories:
       - 
-      variableCategoryIDs: 0000000000000000000000000000000000000000
+      variableCategoryIDs: 00000000000000000000000000000000
     description: 
     docUrl: 
     showStateLabel: 0

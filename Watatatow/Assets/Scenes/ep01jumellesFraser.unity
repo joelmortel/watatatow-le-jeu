@@ -3189,7 +3189,7 @@ MonoBehaviour:
         fsmIntParams: []
         fsmBoolParams:
         - useVariable: 1
-          name: ProblemeRegle
+          name: benevolat
           tooltip: 
           showInInspector: 0
           networkSync: 0
@@ -3307,7 +3307,7 @@ MonoBehaviour:
         fsmIntParams: []
         fsmBoolParams:
         - useVariable: 1
-          name: ProblemeRegle
+          name: benevolat
           tooltip: 
           showInInspector: 0
           networkSync: 0
@@ -3847,19 +3847,7 @@ MonoBehaviour:
         showInInspector: 0
         networkSync: 0
         value: 0
-      boolVariables:
-      - useVariable: 1
-        name: JumellesMotEinstein
-        tooltip: 
-        showInInspector: 0
-        networkSync: 0
-        value: 0
-      - useVariable: 1
-        name: ProblemeRegle
-        tooltip: 
-        showInInspector: 0
-        networkSync: 0
-        value: 0
+      boolVariables: []
       stringVariables:
       - useVariable: 1
         name: replique
@@ -3868,19 +3856,7 @@ MonoBehaviour:
         networkSync: 0
         value: 
       - useVariable: 1
-        name: RepliqueFraser
-        tooltip: 
-        showInInspector: 0
-        networkSync: 0
-        value: 
-      - useVariable: 1
         name: newline
-        tooltip: 
-        showInInspector: 0
-        networkSync: 0
-        value: 
-      - useVariable: 1
-        name: new para
         tooltip: 
         showInInspector: 0
         networkSync: 0
@@ -3904,7 +3880,7 @@ MonoBehaviour:
       enumVariables: []
       categories:
       - 
-      variableCategoryIDs: 0000000000000000000000000000000000000000000000000000000000000000
+      variableCategoryIDs: 00000000000000000000000000000000
     description: 
     docUrl: 
     showStateLabel: 0
