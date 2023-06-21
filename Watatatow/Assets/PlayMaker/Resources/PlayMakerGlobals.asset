@@ -186,9 +186,6 @@ MonoBehaviour:
       objectReferences:
       - {fileID: 62049588498828602, guid: 1d6f89093e7ffe7408b255e662cdf94e, type: 3}
       - {fileID: 6237359062298445351, guid: fb5058212406eac4a922273525f65c1c, type: 3}
-      - {fileID: 8920269634899320028, guid: 88d830144eea49a48a34a5494fafbd9a, type: 3}
-      - {fileID: 8759687699073931392, guid: f55e51e144500b748bf979116dcf7f46, type: 3}
-      - {fileID: 3107609144213168991, guid: e34ea1659a6a3ac4d812163d3b732476, type: 3}
     - useVariable: 1
       name: MauvaisChoix
       tooltip: 

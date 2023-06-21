@@ -912,7 +912,7 @@ MonoBehaviour:
           networkSync: 0
           value: 0
         - useVariable: 1
-          name: BenevolatTrouve
+          name: benevolat
           tooltip: 
           showInInspector: 0
           networkSync: 0
@@ -1241,7 +1241,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: "Vincent sourit en \xE9coutant de la musique. "
+          value: "Vincent sourit en \xE9coutant le nouvel album du groupe Paparazzi."
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -2450,7 +2450,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
