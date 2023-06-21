@@ -1202,7 +1202,7 @@ MonoBehaviour:
         - 
         actionEnabled: 0101010101
         actionIsOpen: 0101010101
-        actionStartIndex: 0000000003000000060000000d00000019000000
+        actionStartIndex: 0000000003000000060000000e0000001a000000
         actionHashCodes: 603dd905c4b050047370ae05335c45055ac85204
         unityObjectParams: []
         fsmGameObjectParams: []
@@ -1367,15 +1367,23 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: "Il y a toutefois toujours de la place pour Rudy Caya qui est pass\xE9
-            faire un tour!"
+          value: "Il y a toutefois toujours de la place pour Rudy Caya, le chanteur
+            de Vilain Pingouin, qui est pass\xE9 faire un tour!"
         - useVariable: 0
           name: 
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: "Wow! Quelle belle f\xEAte surprise! Souhaitons maintenant un bon
-            concert aux Bananas! "
+          value: "\xABSalut la gang! Je vois... ou plut\xF4t... j'entends que vous
+            appr\xE9ciez le bon rock! Est-ce qu'il y aurait une place pour moi dans
+            les Bananas?\xBB"
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: "Wow! Ce soir, ce sera un concert inoubliable des Bananas avec Rudy
+            Caya comme invit\xE9! "
         - useVariable: 1
           name: sautParagraphe
           tooltip: 
@@ -1472,12 +1480,12 @@ MonoBehaviour:
         - good
         - '     Optional Sounds Section:'
         byteData: 000001000101
-        arrayParamSizes: 02000000
+        arrayParamSizes: 03000000
         arrayParamTypes:
         - HutongGames.PlayMaker.FsmString
         customTypeSizes: 
         customTypeNames: []
-        paramDataType: 1000000010000000010000001400000018000000110000000c00000012000000120000001200000011000000120000000100000012000000120000000f0000000f00000011000000010000001700000003000000010000000100000018000000140000002400000001000000
+        paramDataType: 1000000010000000010000001400000018000000110000000c0000001200000012000000120000001200000011000000120000000100000012000000120000000f0000000f00000011000000010000001700000003000000010000000100000018000000140000002400000001000000
         paramName:
         - intVariable
         - add
@@ -1486,6 +1494,7 @@ MonoBehaviour:
         - sprite
         - resetOnExit
         - stringParts
+        - 
         - 
         - 
         - separator
@@ -1506,8 +1515,8 @@ MonoBehaviour:
         - audioSourceObj
         - targetProperty
         - everyFrame
-        paramDataPos: 000000000100000000000000000000000000000000000000000000000000000001000000020000000100000003000000010000000400000005000000000000000100000002000000020000000000000001000000030000000400000001000000010000000000000005000000
-        paramByteDataSize: 000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000010000000000000000000000010000000100000000000000000000000000000001000000
+        paramDataPos: 00000000010000000000000000000000000000000000000000000000000000000100000002000000030000000100000004000000010000000500000006000000000000000100000002000000020000000000000001000000030000000400000001000000010000000000000005000000
+        paramByteDataSize: 00000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000010000000000000000000000010000000100000000000000000000000000000001000000
     - name: Etat 4
       description: 
       colorIndex: 0
