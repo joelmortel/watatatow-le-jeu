@@ -2816,13 +2816,13 @@ MonoBehaviour:
           networkSync: 0
           value: 0
         - useVariable: 1
-          name: Homework
+          name: DevoirDonne
           tooltip: 
           showInInspector: 0
           networkSync: 0
           value: 0
         - useVariable: 1
-          name: BenevolatTrouve
+          name: benevolat
           tooltip: 
           showInInspector: 0
           networkSync: 0
@@ -4065,7 +4065,7 @@ MonoBehaviour:
             typeName: UnityEngine.Object
             value: {fileID: 0}
           TargetTypeName: UnityEngine.UI.Text
-          PropertyName: text
+          PropertyName: 
           BoolParameter:
             useVariable: 0
             name: 
@@ -4100,7 +4100,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            value: Qui souhaitez-vous interroger ?
+            value: 
           Vector2Parameter:
             useVariable: 0
             name: 
@@ -4140,7 +4140,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            typeName: System.String
+            typeName: 
             value: {fileID: 0}
           MaterialParameter:
             useVariable: 0
@@ -4171,7 +4171,7 @@ MonoBehaviour:
             tooltip: 
             showInInspector: 0
             networkSync: 0
-            enumName: HutongGames.PlayMaker.None
+            enumName: 
             intValue: 0
           ArrayParameter:
             useVariable: 0
@@ -4180,7 +4180,7 @@ MonoBehaviour:
             showInInspector: 0
             networkSync: 0
             type: -1
-            objectTypeName: UnityEngine.Object
+            objectTypeName: 
             floatValues: []
             intValues: 
             boolValues: 

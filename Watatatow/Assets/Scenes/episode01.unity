@@ -643,8 +643,8 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: "Arriverez-vous \xE0 retrouver Einstein avant le grand concert des
-            Bananas?"
+          value: "Arriverez-vous \xE0 comprendre pourquoi Einstein agissait si bizarrement
+            depuis hier?"
         - useVariable: 0
           name: 
           tooltip: 
@@ -1753,7 +1753,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8b9af06f7ebdec748b9f65f3e89886f1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 612b1d72f8bab9840b466287d48b41c1, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

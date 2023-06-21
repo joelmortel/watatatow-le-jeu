@@ -50,4 +50,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ep01rafetstef.unity
     guid: 23922d4ba65d8b749873f957e3312152
+  - enabled: 1
+    path: Assets/Scenes/ep01finale.unity
+    guid: 461ddc152c174264aa0d89cf086fd6dc
   m_configObjects: {}
