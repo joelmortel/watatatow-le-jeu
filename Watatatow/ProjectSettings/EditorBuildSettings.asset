@@ -53,4 +53,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ep01finale.unity
     guid: 461ddc152c174264aa0d89cf086fd6dc
+  - enabled: 1
+    path: Assets/Scenes/ep01credits.unity
+    guid: 00a7eb6e9c105b64cb28a1725fec25a4
   m_configObjects: {}
